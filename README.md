@@ -10,7 +10,7 @@
 + Shell: zsh 5.8
 + Terminal: xterm-256color
 
-<p align="center"> <a href="https://t.me/your_profile"> <img src="https://img.shields.io/badge/≫_Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF00"/> </a> <a href="https://vk.com/your_profile"> <img src="https://img.shields.io/badge/≫_VK-000000?style=for-the-badge&logo=vk&logoColor=00FF00"/> </a> <a href="https://github.com/yourusername"> <img src="https://img.shields.io/badge/≫_GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00"/> </a> </p>
+
 
 def skill_matrix():
     return {
@@ -20,7 +20,7 @@ def skill_matrix():
         'HTML/CSS':     '■■■■□□□',
         'Linux':        '■■□□□□□'
     }
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00&include_all_commits=true" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" width="350"/> </p>
+
 
 01010100 01101000 01100101 00100000 01001101 01100001 01110100 01110010 01101001 01111000 
 01101000 01100001 01110011 00100000 01111001 01101111 01110101 00100000 01000110 01101111 
